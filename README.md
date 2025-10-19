@@ -1,0 +1,1 @@
+# SPU-AI-Prompt-Mini-Hackathon-2025
