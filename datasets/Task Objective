@@ -1,0 +1,7 @@
+สร้างโมเดล Machine Learning ที่สามารถทำนาย เวลาจัดส่ง (delivery_time_minutes) ของพัสดุแต่ละกล่องจากข้อมูลคุณลักษณะต่าง ๆ เช่น:
+
+ระยะทาง (distance_km)
+น้ำหนัก (weight_kg)
+ประเภทเขต (zone_type)
+สภาพอากาศ (weather_condition)
+วันในสัปดาห์ (day_of_week)
